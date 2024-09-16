@@ -9,7 +9,7 @@ export default function () {
     const url = 'https://localhost:7003/customer';
     const payload = JSON.stringify({
         name: "",
-        email: "vanbastian01@gmail.com"
+        email: "test@mail.com"
     });
     const params = {
         headers: {
