@@ -1,0 +1,6 @@
+@throw_exception_performance_HostAddress = http://localhost:5172
+
+GET {{throw_exception_performance_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
